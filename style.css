@@ -1,0 +1,25 @@
+input{
+    border: 1px solid black;
+    font-weight: bolder;
+}
+button{
+    font-weight: bolder;
+}
+body{
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWjWQDxZGu2gkp2-KcDS7Crlezu6PAtNeqg&s'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: lightcoral;
+}
+#main{
+    border: 5px solid white;
+    height: 300px;
+    padding-top: 40px;
+    border-radius: 20px;
+}
+h1{
+    font-family: cursive;
+}
